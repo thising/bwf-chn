@@ -27,7 +27,7 @@
     [
         {
             "matches": ["http://bwf.tournamentsoftware.com/*", "https://bwf.tournamentsoftware.com/*"],
-            "js": ["js/players-ms.js", "js/players-ws.js", "js/players-md.js", "js/players-wd.js", "js/players-xd.js", "js/other.js"],
+            "js": ["js/players-male.js", "js/players-famale.js", "js/other.js"],
             "run_at": "document_end"
         }
     ],

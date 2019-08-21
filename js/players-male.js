@@ -35,3 +35,13 @@ document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Kanta TSUN
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LEE Zii Jia", "g"), "李梓嘉");
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Tommy SUGIARTO", "g"), "苏吉亚托");
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("SAI PRANEETH B.", "g"), "塞·帕拉内斯");
+
+/*
+ * 2019.08.21 by Kyle
+ * Marcus Fernaldi GIDEON -> 费尔那迪
+ * INAKevin Sanjaya SUKAMULJO -> 苏卡穆约
+ * ZHENG Si Wei -> 郑思维
+ */
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Marcus Fernaldi GIDEON", "g"), "费尔那迪");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Kevin Sanjaya SUKAMULJO", "g"), "苏卡穆约");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("ZHENG Si Wei", "g"), "郑思维");
