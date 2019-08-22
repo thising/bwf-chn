@@ -26,7 +26,7 @@
     "content_scripts": 
     [
         {
-            "matches": ["http://bwf.tournamentsoftware.com/*", "https://bwf.tournamentsoftware.com/*"],
+            "matches": ["http://*.tournamentsoftware.com/*", "https://*.tournamentsoftware.com/*"],
             "js": ["js/players-male.js", "js/players-famale.js", "js/other.js"],
             "run_at": "document_end"
         }

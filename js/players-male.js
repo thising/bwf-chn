@@ -169,3 +169,119 @@ document.body.innerHTML = document.body.innerHTML.replace(new RegExp("WANG Chi-L
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Nipitphon PHUANGPHUAPET", "g"), "尼迪蓬");
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Alex VLAAR", "g"), "弗拉尔");
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Toby PENTY", "g"), "潘迪");
+
+/*
+ * 2019.08.22 by Kyle
+ * Felix BURESTEDT -> 布雷施泰特
+ * LEE Cheuk Yiu -> 李卓耀
+ * Artem POCHTAROV -> 阿提姆·波奇塔列夫
+ * Misha ZILBERMAN -> 米沙·西尔伯曼
+ * Thomas ROUXEL -> 托马斯·鲁克塞尔
+ * LOH Kean Yew -> 骆建佑
+ * Zvonimir DURKINJAK -> 杜尔金雅克
+ * CHOI Solgyu -> 催率圭
+ * LEE Yang -> 李洋
+ * LIN Shang Kai -> 林上凯
+ * TSENG Min Hao -> 曾敏豪
+ * Fajar ALFIAN -> 法加尔
+ * Muhammad Rian ARDIANTO -> 阿德里安托
+ * Marcus ELLIS -> 埃利斯
+ * Chris LANGRIDGE -> 兰格瑞奇
+ * GOH V Shem -> 吴蔚昇
+ * TAN Wee Kiong -> 陈蔚强
+ * ONG Yew Sin -> 王耀新
+ * TEO Ee Yi -> 张御宇
+ * Mohammad AHSAN -> 阿山
+ * Hendra SETIAWAN -> 亨德拉
+ * Jelle MAAS -> 耶勒·马斯
+ * Satwiksairaj RANKIREDDY -> 兰基雷迪
+ * Chirag SHETTY -> 奇拉格·谢提
+ * Alexander DUNN -> 亚力山大·邓恩
+ * Adam HALL -> 亚当·霍尔
+ * Kim ASTRUP -> 阿斯特鲁普
+ * Anders Skaarup RASMUSSEN -> 拉斯姆森
+ * Vladimir NIKULOV -> 尼科洛夫
+ * Artem SERPIONOV -> 塞尔皮奥诺夫
+ * LIAO Min Chun -> 廖敏竣
+ * SU Ching Heng -> 苏敬恒
+ * Vitalij DURKIN -> 维塔利·杜尔金
+ * Nikolai UKK -> 尼古拉·乌卡卡
+ * Yugo KOBAYASHI -> 小林优吾
+ * HAN Cheng Kai -> 韩呈恺
+ * ZHOU Hao Dong -> 周昊东
+ * HE Ji Ting -> 何济霆
+ * TAN Qiang -> 谭强
+ * Takeshi KAMURA -> 嘉村健士
+ * Keigo SONODA -> 园田启悟
+ * LIU Cheng -> 刘成
+ * ZHANG Nan -> 张楠
+ * Hiroyuki ENDO -> 远藤大由
+ * Aaron CHIA -> 谢定峰
+ * SOH Wooi Yik -> 苏伟译
+ * LI Jun Hui -> 李俊慧
+ * LIU Yu Chen -> 刘雨辰
+ * Praveen JORDAN -> 乔丹
+ * TAN Kian Meng -> 陈健铭
+ * Dechapol PUAVARANUKROH -> 德差波尔
+ * TANG Chun Man -> 邓俊文
+ * Marcus ELLIS -> 埃利斯
+ * LU Kai -> 鲁恺
+ * WANG Yi Lyu -> 王懿律
+ * Lino MUNOZ -> 穆尼奥斯
+ */
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Felix BURESTEDT", "g"), "布雷施泰特");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LEE Cheuk Yiu", "g"), "李卓耀");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Artem POCHTAROV", "g"), "阿提姆·波奇塔列夫");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Misha ZILBERMAN", "g"), "米沙·西尔伯曼");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Thomas ROUXEL", "g"), "托马斯·鲁克塞尔");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LOH Kean Yew", "g"), "骆建佑");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Zvonimir DURKINJAK", "g"), "杜尔金雅克");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("CHOI Solgyu", "g"), "催率圭");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LEE Yang", "g"), "李洋");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LIN Shang Kai", "g"), "林上凯");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("TSENG Min Hao", "g"), "曾敏豪");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Fajar ALFIAN", "g"), "法加尔");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Muhammad Rian ARDIANTO", "g"), "阿德里安托");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Marcus ELLIS", "g"), "埃利斯");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Chris LANGRIDGE", "g"), "兰格瑞奇");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("GOH V Shem", "g"), "吴蔚昇");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("TAN Wee Kiong", "g"), "陈蔚强");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("ONG Yew Sin", "g"), "王耀新");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("TEO Ee Yi", "g"), "张御宇");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Mohammad AHSAN", "g"), "阿山");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Hendra SETIAWAN", "g"), "亨德拉");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Jelle MAAS", "g"), "耶勒·马斯");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Satwiksairaj RANKIREDDY", "g"), "兰基雷迪");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Chirag SHETTY", "g"), "奇拉格·谢提");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Alexander DUNN", "g"), "亚力山大·邓恩");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Adam HALL", "g"), "亚当·霍尔");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Kim ASTRUP", "g"), "阿斯特鲁普");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Anders Skaarup RASMUSSEN", "g"), "拉斯姆森");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Vladimir NIKULOV", "g"), "尼科洛夫");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Artem SERPIONOV", "g"), "塞尔皮奥诺夫");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LIAO Min Chun", "g"), "廖敏竣");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("SU Ching Heng", "g"), "苏敬恒");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Vitalij DURKIN", "g"), "维塔利·杜尔金");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Nikolai UKK", "g"), "尼古拉·乌卡卡");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Yugo KOBAYASHI", "g"), "小林优吾");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("HAN Cheng Kai", "g"), "韩呈恺");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("ZHOU Hao Dong", "g"), "周昊东");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("HE Ji Ting", "g"), "何济霆");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("TAN Qiang", "g"), "谭强");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Takeshi KAMURA", "g"), "嘉村健士");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Keigo SONODA", "g"), "园田启悟");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LIU Cheng", "g"), "刘成");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("ZHANG Nan", "g"), "张楠");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Hiroyuki ENDO", "g"), "远藤大由");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Aaron CHIA", "g"), "谢定峰");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("SOH Wooi Yik", "g"), "苏伟译");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LI Jun Hui", "g"), "李俊慧");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LIU Yu Chen", "g"), "刘雨辰");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Praveen JORDAN", "g"), "乔丹");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("TAN Kian Meng", "g"), "陈健铭");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Dechapol PUAVARANUKROH", "g"), "德差波尔");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("TANG Chun Man", "g"), "邓俊文");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Marcus ELLIS", "g"), "埃利斯");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("LU Kai", "g"), "鲁恺");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("WANG Yi Lyu", "g"), "王懿律");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Lino MUNOZ", "g"), "穆尼奥斯");
